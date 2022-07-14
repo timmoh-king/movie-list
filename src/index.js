@@ -1,8 +1,15 @@
+/**
+ * @Author: Your name
+ * @Date:   2022-07-10 22:54:23
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2022-07-14 07:49:47
+ */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'font-awesome/css/font-awesome.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
